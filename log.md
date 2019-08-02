@@ -10,4 +10,12 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Link to work:** [Color Picker](https://github.com/jpeter17/color_picker_NN)
 
+### Day 2: Aug 1, 2019
+
+**Today's Progress**: Finished the model for the RGB color predictor and moved on to adding information to the UI. 
+
+**Thoughts:**: Formatting numpy matrices took some doing but wasn't too difficult to figure out. I can't tell if the network is functioning properly. Using a labeled dataset in the next project would make this more clear. 
+
+**Link to work:** [Color Picker](https://github.com/jpeter17/color_picker_NN)
+
 
