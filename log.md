@@ -18,4 +18,14 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Link to work:** [Color Picker](https://github.com/jpeter17/color_picker_NN)
 
+### Day 3: Aug 2, 2019
+
+**Today's Progress**: Did some research on the reasoning behind number of hidden layers and nodes within them. Started a new network, dubbed 'Skribble', that will eventually be able to interpret handwritten digits for the MNIST data set.
+
+**Thoughts:**: Did not make as much progress as I wanted to on this. I did my coding on a bus to Portland and did not think to eat before hand. The information I learned on hidden layers and neurons was very interesting.
+
+**Link to work:** [Skribble](https://github.com/jpeter17/Skribble)
+
+
+
 
