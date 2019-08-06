@@ -26,6 +26,21 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Link to work:** [Skribble](https://github.com/jpeter17/Skribble)
 
+### Day 4: Aug 5, 2019
+
+**Today's Progress**: Updated some things in the Skribble Network and found some bugs in calculating the change in weight that I need to keep working on. 
+
+**Thoughts:**: Extremes of the sigmoid function return a derivative of zero. This is causing me some issues in change in weight. I need to look into changing the activation function to something that doesnt have a derivative tending to 0 or make sure my z-values stay relatively close to 0 
+
+**Link to work:** [Skribble](https://github.com/jpeter17/Skribble)
+
+### Day X: 
+
+**Today's Progress**: 
+
+**Thoughts:**: 
+
+**Link to work:** [Skribble](https://github.com/jpeter17/Skribble)
 
 
 
