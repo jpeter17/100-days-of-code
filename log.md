@@ -34,6 +34,12 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Link to work:** [Skribble](https://github.com/jpeter17/Skribble)
 
+### Day 5: Aug 6, 2019
+
+**Today's Progress**: Worked on some questions from previous rounds of Google Code Jam and LeetCode. Completed first 4 modules of Google's Machine Learning Crash Course. 
+
+**Thoughts:**: I have been looking into signing up for the upcoming Google Kick Start Competition. I will work on past problems in the upcoming days to decide. The Machine Learning crash course has introduced me to some new technologies that will be useful in the Skribble network as well as much more memory friendly ways to visualize data.
+
 ### Day X: 
 
 **Today's Progress**: 
@@ -41,6 +47,5 @@ I started this challenge in an effort to build better habits and pursue my inter
 **Thoughts:**: 
 
 **Link to work:** [Skribble](https://github.com/jpeter17/Skribble)
-
 
 
