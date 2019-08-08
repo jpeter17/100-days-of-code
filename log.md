@@ -40,6 +40,12 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Thoughts:**: I have been looking into signing up for the upcoming Google Kick Start Competition. I will work on past problems in the upcoming days to decide. The Machine Learning crash course has introduced me to some new technologies that will be useful in the Skribble network as well as much more memory friendly ways to visualize data.
 
+### Day 6: Aug 7, 2019
+
+**Today's Progress**: Did problems from previous rounds of Google's Kick Start competition to prepare for the upcoming round. Additionally completed some more modules in the machine learning crash course.
+
+**Thoughts:**: I know that I have the ability to score at least a few points in Kick Start so I figure I might as well participate. I have picked up a few books to hone my algorithm and data structure ability in preperation. 
+
 ### Day X: 
 
 **Today's Progress**: 
