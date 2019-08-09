@@ -46,6 +46,12 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Thoughts:**: I know that I have the ability to score at least a few points in Kick Start so I figure I might as well participate. I have picked up a few books to hone my algorithm and data structure ability in preperation. 
 
+### Day 7: Aug 8, 2019
+
+**Today's Progress**: More modules from the machine learning crash course. Learned about bucketization of data and it's usefulness in addition to the FTRL optimizer. The results are impressive. 
+
+**Thoughts:**: Bucketization might assist me with the accuracy of the Skribble Network. Binning the brightness values into fewer groups such as (dark, dim, bright) might increase accuracy. FTLR optimization will allow adjustment of learning rates for the outermost pixels that will almost always be classified as dark. 
+
 ### Day X: 
 
 **Today's Progress**: 
