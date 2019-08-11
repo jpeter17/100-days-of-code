@@ -52,6 +52,18 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Thoughts:**: Bucketization might assist me with the accuracy of the Skribble Network. Binning the brightness values into fewer groups such as (dark, dim, bright) might increase accuracy. FTLR optimization will allow adjustment of learning rates for the outermost pixels that will almost always be classified as dark. 
 
+### Day 8: Aug 9, 2019 
+
+**Today's Progress**: Some LeetCode problems to continue practicing data structures and algorithms along with more machine learning crash course modules on logistic regression. 
+
+**Thoughts:**: The issue with the Skribble network probably has to do with me using part of logistic regression while still using a linear cost function. Log cost could solve these issues but I will probably end up using TensorFlow.
+
+### Day 9: Aug 10, 2019 
+
+**Today's Progress**: More Machine Learning crash course modules. Finally getting into non-linear classification models. Some interesting stuff.  
+
+**Thoughts:**: I don't fully understand how layers and nodes relates to what correlations the model can make. Is it trial and error or is there some intuition you can gain for it?
+
 ### Day X: 
 
 **Today's Progress**: 
