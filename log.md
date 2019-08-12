@@ -64,6 +64,12 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Thoughts:**: I don't fully understand how layers and nodes relates to what correlations the model can make. Is it trial and error or is there some intuition you can gain for it?
 
+### Day 10: Aug 11, 2019 
+
+**Today's Progress**: Today's machine learning module ended up being the MNIST digits problem I was trying to solve a few days ago. Currently struggling through adjusting hyperparameters to achieve accuracy > 95%.
+
+**Thoughts:**: I feel like I'm on the right track with the parameters but then I seem to run into walls that I can't get past. Accuracy goes up to a certain point before overfitting.
+
 ### Day X: 
 
 **Today's Progress**: 
