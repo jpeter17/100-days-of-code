@@ -70,6 +70,12 @@ I started this challenge in an effort to build better habits and pursue my inter
 
 **Thoughts:**: I feel like I'm on the right track with the parameters but then I seem to run into walls that I can't get past. Accuracy goes up to a certain point before overfitting.
 
+### Day 11: Aug 12, 2019
+
+**Today's Progress**: Finished up the machine learning crash course. Getting the MNIST digit dataset model up to a 96% accuracy was a good feeling. Lots of information about biases today.
+
+**Thoughts:**: A lot of content to think about today. There are so many different ways that data can muddy up a model. It would be neat to get this implemented onto a website that you can draw your own digits into. 
+
 ### Day X: 
 
 **Today's Progress**: 
